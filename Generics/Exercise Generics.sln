@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxofString", "1. Generic Box of String\GenericBoxofString.csproj", "{3DF3ADA9-6CA8-4ABF-8652-EF9F38812DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodStrings", "GenericSwapMethodStrings\GenericSwapMethodStrings.csproj", "{CDD09D12-27FD-4D3B-8D91-9B0C475232B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF3ADA9-6CA8-4ABF-8652-EF9F38812DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF3ADA9-6CA8-4ABF-8652-EF9F38812DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF3ADA9-6CA8-4ABF-8652-EF9F38812DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF3ADA9-6CA8-4ABF-8652-EF9F38812DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD09D12-27FD-4D3B-8D91-9B0C475232B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD09D12-27FD-4D3B-8D91-9B0C475232B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD09D12-27FD-4D3B-8D91-9B0C475232B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD09D12-27FD-4D3B-8D91-9B0C475232B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B18BE01-A68E-468E-90A5-FBB86819EAF9}
+	EndGlobalSection
+EndGlobal

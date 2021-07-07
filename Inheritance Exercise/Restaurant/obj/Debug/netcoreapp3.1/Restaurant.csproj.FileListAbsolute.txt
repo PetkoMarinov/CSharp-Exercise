@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+E:\C# Videos\C-Fundamentals\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

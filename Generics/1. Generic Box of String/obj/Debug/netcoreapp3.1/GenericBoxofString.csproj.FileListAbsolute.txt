@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\bin\Debug\netcoreapp3.1\GenericBoxofString.exe
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\bin\Debug\netcoreapp3.1\GenericBoxofString.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\bin\Debug\netcoreapp3.1\GenericBoxofString.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\bin\Debug\netcoreapp3.1\GenericBoxofString.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\bin\Debug\netcoreapp3.1\GenericBoxofString.dll
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\bin\Debug\netcoreapp3.1\GenericBoxofString.pdb
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.dll
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.pdb
+E:\C# Videos\C-Fundamentals\Exercise Generics\1. Generic Box of String\obj\Debug\netcoreapp3.1\GenericBoxofString.genruntimeconfig.cache

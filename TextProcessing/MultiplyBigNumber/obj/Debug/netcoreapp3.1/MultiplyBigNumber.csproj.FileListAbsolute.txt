@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.exe
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.deps.json
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.dll
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.pdb
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.dll
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.pdb
+E:\C# Videos\C-Fundamentals\TextProcessingExercise\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.genruntimeconfig.cache

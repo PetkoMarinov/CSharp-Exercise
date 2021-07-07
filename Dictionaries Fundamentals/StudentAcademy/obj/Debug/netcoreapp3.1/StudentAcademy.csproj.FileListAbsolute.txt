@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+E:\C# Videos\C-Fundamentals\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache

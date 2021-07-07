@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.exe
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.deps.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.dll
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.pdb
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.dll
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.pdb
+E:\C# Videos\C-Fundamentals\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
+E:\C# Videos\C-Fundamentals\Exercise Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\bin\Debug\netcoreapp3.1\Warships.exe
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\bin\Debug\netcoreapp3.1\Warships.deps.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.dev.json
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\bin\Debug\netcoreapp3.1\Warships.dll
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\bin\Debug\netcoreapp3.1\Warships.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.csprojAssemblyReference.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfoInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfo.cs
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.csproj.CoreCompileInputs.cache
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.dll
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.pdb
+E:\C# Videos\C-Fundamentals\AdvancedExamPreparation\Warships\obj\Debug\netcoreapp3.1\Warships.genruntimeconfig.cache

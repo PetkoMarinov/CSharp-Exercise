@@ -1,0 +1,13 @@
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+E:\C#\Polymorphism\Vehicle\bin\Debug\netcoreapp3.1\Vehicles.exe
+E:\C#\Polymorphism\Vehicle\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+E:\C#\Polymorphism\Vehicle\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+E:\C#\Polymorphism\Vehicle\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+E:\C#\Polymorphism\Vehicle\bin\Debug\netcoreapp3.1\Vehicles.dll
+E:\C#\Polymorphism\Vehicle\bin\Debug\netcoreapp3.1\Vehicles.pdb
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.dll
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.pdb
+E:\C#\Polymorphism\Vehicle\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

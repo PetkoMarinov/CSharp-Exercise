@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1-6.CreateAlterInsertDropTruncate", "1-6.CreateAlterInsertDropTruncate\1-6.CreateAlterInsertDropTruncate.ssmssqlproj", "{6CAF32C8-4D86-4B77-A38A-0F34E5558731}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "7. CreateTablePeople", "7. CreateTablePeople\7. CreateTablePeople.ssmssqlproj", "{711AEED9-68B2-406F-A151-3CD5E52C2BBF}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "8-12. CreateTableUsers", "8-12. CreateTableUsers\8-12. CreateTableUsers.ssmssqlproj", "{F4A422C5-3DDC-402B-AB08-1797CB0F5BD6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "13. Movies Database", "13. Movies Database\13. Movies Database.ssmssqlproj", "{E1ACC7D0-B16F-4079-AFE3-C0F3EDA0E4FD}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "14. Car Rental Database", "14. Car Rental Database\14. Car Rental Database.ssmssqlproj", "{80D322BC-4366-4F19-8AC9-836EC679678D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "15. HotelDatabase", "15. HotelDatabase\15. HotelDatabase.ssmssqlproj", "{35FA2F5D-2400-40C9-AA1B-21A6759A8E4F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "16-22. SoftUni", "16-22. SoftUni\16-22. SoftUni.ssmssqlproj", "{32DF0191-84E5-4DE6-A0F9-14289E32E187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAF32C8-4D86-4B77-A38A-0F34E5558731}.Default|Default.ActiveCfg = Default
+		{711AEED9-68B2-406F-A151-3CD5E52C2BBF}.Default|Default.ActiveCfg = Default
+		{F4A422C5-3DDC-402B-AB08-1797CB0F5BD6}.Default|Default.ActiveCfg = Default
+		{E1ACC7D0-B16F-4079-AFE3-C0F3EDA0E4FD}.Default|Default.ActiveCfg = Default
+		{80D322BC-4366-4F19-8AC9-836EC679678D}.Default|Default.ActiveCfg = Default
+		{35FA2F5D-2400-40C9-AA1B-21A6759A8E4F}.Default|Default.ActiveCfg = Default
+		{C6AC4FED-3D5A-4251-80C3-357937B63470}.Default|Default.ActiveCfg = Default
+		{32DF0191-84E5-4DE6-A0F9-14289E32E187}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68938429-B318-4D73-A0A9-7D4705870BBE}
+	EndGlobalSection
+EndGlobal

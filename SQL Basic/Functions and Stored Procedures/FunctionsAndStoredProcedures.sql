@@ -67,15 +67,48 @@ SELECT FirstName, LastName
 	WHERE dbo.ufn_GetSalaryLevel(Salary) = @salaryLevel
 
 --7.	Define Function
-CREATE FUNCTION ufn_IsWordComprised(@setOfLetters, @word)
+--CREATE FUNCTION ufn_IsWordComprised(@setOfLetters VARCHAR(50), @word VARCHAR(50))
+--RETURNS BIT
+--AS
+--BEGIN
+--	DECLARE @isTrue BIT
+--	DECLARE @i TINYINT, @j TINYINT
+
+--	WHILE (@i <= LEN(@setOfLetters))
+--	BEGIN
+--		SET @j = 0
+--		WHILE (@j <= LEN(@word))
+--		BEGIN
+--			IF SUBSTRING(@word,@j,1) = SUBSTRING(@setOfLetters,@i,1)
+--				BEGIN
+--					SET @isTrue = 1;
+--					BREAK;
+--				END
+--			ELSE SET @isTrue = 0;
+--			SET @j = @j + 1
+--		END
+--		SET @i = @i + 1 
+--	END
+--	RETURN @isTrue
+--END
+
+--------
+CREATE FUNCTION ufn_IsWordComprised(@setOfLetters VARCHAR(MAX), @word VARCHAR(MAX)) 
 RETURNS BIT
 AS
-DECLARE @isTrue BIT
-DECLARE @count TINYINT
-
-WHILE (@count <= LEN(@word))
 BEGIN
-	IF SUBSTRING(
+	DECLARE @Count INT = 1
+	DECLARE @Letter VARCHAR(1)
+
+	WHILE (LEN(@word) >= @Count)
+	BEGIN
+		SET @Letter = SUBSTRING(@word, @Count, 1)
+
+		IF @setOfLetters NOT LIKE '%' + @Letter + '%'
+			RETURN 0
+
+		SET @Count += 1
+	END
+	RETURN 1 
 END
 
-DROP FUNCTION ufn_GetSalaryLevel

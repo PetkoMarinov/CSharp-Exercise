@@ -112,3 +112,75 @@ BEGIN
 	RETURN 1 
 END
 
+--8.	* Delete Employees and Departments
+
+CREATE PROC usp_DeleteEmployeesFromDepartment (@departmentId INT)
+AS
+BEGIN
+	DELETE FROM EmployeesProjects
+		WHERE EmployeeID IN (
+			SELECT EmployeeID
+			FROM Employees
+			WHERE DepartmentID = @departmentId)
+
+	UPDATE Employees
+		SET ManagerID = NULL
+		WHERE ManagerID IN (
+			SELECT EmployeeID 
+			FROM Employees
+			WHERE DepartmentID = @departmentId)
+
+	ALTER TABLE Departments
+		ALTER COLUMN ManagerID INT NULL
+
+	UPDATE Departments
+	   SET ManagerID = NULL
+	   WHERE DepartmentID = @departmentId
+	
+	DELETE FROM Employees
+		WHERE DepartmentID = @departmentId 
+
+	DELETE FROM Departments
+		WHERE DepartmentID = @departmentId 
+
+	SELECT COUNT(*)
+	   FROM Employees
+       WHERE DepartmentID = @departmentId
+END
+
+--9.	Find Full Name
+CREATE PROC usp_GetHoldersFullName
+AS 
+BEGIN
+	SELECT FirstName + ' ' + LastName AS [Full Name]	
+		FROM AccountHolders
+END
+
+--10.	People with Balance Higher Than
+CREATE PROC usp_GetHoldersWithBalanceHigherThan(@value MONEY)
+AS
+BEGIN
+	SELECT ah.FirstName, ah.LastName FROM
+		(SELECT AccountHolderId, SUM(Balance) AS TotalBalance
+			FROM Accounts
+			GROUP BY AccountHolderId) AS Total
+		LEFT JOIN AccountHolders ah ON Total.AccountHolderId = ah.Id
+		WHERE Total.TotalBalance > @value
+		ORDER BY ah.FirstName, ah.LastName
+END
+--------------------------------------------------------------------
+CREATE PROC usp_GetHoldersWithBalanceHigherThan(@value MONEY)
+AS
+BEGIN
+	SELECT ah.FirstName, ah.LastName
+			FROM Accounts a
+		LEFT JOIN AccountHolders ah ON a.AccountHolderId = ah.Id
+		GROUP BY ah.FirstName, ah.LastName, ah.Id
+		HAVING SUM(a.Balance) > @value
+		ORDER BY ah.FirstName, ah.LastName
+END
+
+EXEC usp_GetHoldersWithBalanceHigherThan 10000
+
+SELECT * FROM Accounts
+DROP PROC usp_GetHoldersWithBalanceHigherThan

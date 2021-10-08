@@ -184,3 +184,18 @@ EXEC usp_GetHoldersWithBalanceHigherThan 10000
 
 SELECT * FROM Accounts
 DROP PROC usp_GetHoldersWithBalanceHigherThan
+
+--11.	Future Value Function
+
+CREATE FUNCTION ufn_CalculateFutureValue(@amount DECIMAL, @interestRate FLOAT, @years INT)
+RETURNS DECIMAL(20, 4) AS
+BEGIN
+	DECLARE @FutureValue DECIMAL(20,4) = @amount * POWER((1 + @interestRate), @years)
+	--SET @FutureValue = @amount * (POWER((1 + @interestRate), @years)
+	RETURN ROUND(@FutureValue, 4)
+	--RETURN @amount * POWER((1 + @interestRate), @years)
+END
+DECLARE @dd DECIMAL
+EXEC @dd = ufn_CalculateFutureValue 1000, 0.1, 5
+PRINT #dd
+DROP FUNCTION ufn_CalculateFutureValue

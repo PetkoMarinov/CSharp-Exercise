@@ -188,14 +188,31 @@ DROP PROC usp_GetHoldersWithBalanceHigherThan
 --11.	Future Value Function
 
 CREATE FUNCTION ufn_CalculateFutureValue(@amount DECIMAL, @interestRate FLOAT, @years INT)
-RETURNS DECIMAL(20, 4) AS
+RETURNS DECIMAL(15, 4) AS
 BEGIN
-	DECLARE @FutureValue DECIMAL(20,4) = @amount * POWER((1 + @interestRate), @years)
-	--SET @FutureValue = @amount * (POWER((1 + @interestRate), @years)
-	RETURN ROUND(@FutureValue, 4)
-	--RETURN @amount * POWER((1 + @interestRate), @years)
+	DECLARE @FutureValue DECIMAL(15,4) = @amount * POWER((1 + @interestRate), @years)
+	RETURN @FutureValue
 END
-DECLARE @dd DECIMAL
-EXEC @dd = ufn_CalculateFutureValue 1000, 0.1, 5
-PRINT #dd
-DROP FUNCTION ufn_CalculateFutureValue
+
+--printing on screen
+SELECT dbo.ufn_CalculateFutureValue (1000, 0.1, 5) as 'Future value'
+
+DECLARE @cc DECIMAL(17,4)
+EXEC @cc = ufn_CalculateFutureValue 1000, 0.1, 5
+Print(@cc)
+
+--12.	Calculating Interest
+CREATE PROC usp_CalculateFutureValueForAccount(@accountID INT, @interestRate DECIMAL(15,4))
+AS 
+SELECT a.Id AS 'Account Id', FirstName AS 'First Name', LastName AS 'Last Name',
+	Balance AS 'Current Balance',
+	dbo.ufn_CalculateFutureValue (Balance, @interestRate, 5) AS 'Balance in 5 years'
+	
+	FROM Accounts a
+	LEFT JOIN AccountHolders ah ON a.Id = ah.Id
+	WHERE a.id = @accountID
+	 
+EXEC  dbo.usp_CalculateFutureValueForAccount 1, 0.1
+
+DROP PROC usp_CalculateFutureValueForAccount
+DROP FUNCTION dbo.ufn_CalculateFutureValue

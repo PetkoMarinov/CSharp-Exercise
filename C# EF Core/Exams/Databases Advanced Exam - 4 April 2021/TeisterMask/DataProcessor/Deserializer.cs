@@ -4,9 +4,14 @@
     using System.Collections.Generic;
 
     using System.ComponentModel.DataAnnotations;
-
+    using System.IO;
+    using System.Linq;
+    using System.Text;
+    using System.Xml.Serialization;
     using Data;
-
+    using Newtonsoft.Json;
+    using TeisterMask.Data.Models;
+    using TeisterMask.DataProcessor.ImportDto;
     using ValidationContext = System.ComponentModel.DataAnnotations.ValidationContext;
 
     public class Deserializer
@@ -21,12 +26,26 @@
 
         public static string ImportProjects(TeisterMaskContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var reader = new StringReader(xmlString);
+            XmlSerializer serializer = new XmlSerializer(typeof(ProjectsDto[]),new XmlRootAttribute("Projects"));
+            var projects = (ProjectsDto[])serializer.Deserialize(reader);
+            foreach (var item in projects)
+            {
+                foreach (var task in item.Tasks)
+                {
+                    Console.WriteLine(task.Name);
+                }
+            }
+            return "";
         }
 
         public static string ImportEmployees(TeisterMaskContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            var employeesDTO = JsonConvert.DeserializeObject<IEnumerable<EmployeesDto>>(jsonString);
+
+
+
+            return "";
         }
 
         private static bool IsValid(object dto)

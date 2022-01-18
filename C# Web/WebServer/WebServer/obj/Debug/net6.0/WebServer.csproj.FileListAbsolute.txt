@@ -1,0 +1,15 @@
+C:\Users\marin016\source\repos\WebServer\WebServer\bin\Debug\net6.0\WebServer.exe
+C:\Users\marin016\source\repos\WebServer\WebServer\bin\Debug\net6.0\WebServer.deps.json
+C:\Users\marin016\source\repos\WebServer\WebServer\bin\Debug\net6.0\WebServer.runtimeconfig.json
+C:\Users\marin016\source\repos\WebServer\WebServer\bin\Debug\net6.0\WebServer.dll
+C:\Users\marin016\source\repos\WebServer\WebServer\bin\Debug\net6.0\ref\WebServer.dll
+C:\Users\marin016\source\repos\WebServer\WebServer\bin\Debug\net6.0\WebServer.pdb
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.AssemblyReference.cache
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfo.cs
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.dll
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\ref\WebServer.dll
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.pdb
+C:\Users\marin016\source\repos\WebServer\WebServer\obj\Debug\net6.0\WebServer.genruntimeconfig.cache

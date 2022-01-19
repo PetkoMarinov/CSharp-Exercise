@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qiZzlm0/UPni8Y2eBbwkviY4Xl05CKmi40d2XWivc4gVzcx1LJ0VDGXofQJDYI8R1RWb/PhjzBzDAh5RsV12IQ==",
+  "dgSpecHash": "2xoIlO5Ayx6rvFzZn/n9qyWt+DH9SSmA4x3KuuI1sMPfgnDOVUiCiDKU95gW+DWajIKlG6eSabgk/OZ4QYVM5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marin016\\source\\repos\\WebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj",
+  "projectFilePath": "E:\\C#\\C# Web\\WebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,6 +10,8 @@
 
         public string Body { get; private set; }
 
+        public IReadOnlyDictionary<string, string> Form { get; private set; }
+
         //To parse the request string to an HTTP request we need to first separate each line
         //and get the first one, which contains our method and URL, split by a space:
 
@@ -26,14 +28,26 @@
             var bodyLines = lines.Skip(headers.Count + 2).ToArray();
 
             var body = string.Join("\r\n", bodyLines);
+            var form = ParseForm(headers, body);
 
-            return new Request 
+            return new Request
             {
                 Method = method,
                 Url = url,
                 Headers = headers,
-                Body = body
+                Body = body,
+                Form = form
             };
+        }
+
+        private static Dictionary<string, string> ParseForm(HeaderCollection headers, string body)
+        {
+            var formCollection = new Dictionary<string, string>();
+
+            if (headers.Contains(Header.ContentType) && headers[Header.ContentType] == ContentType.FormUrlEncoded)
+            {
+
+            }
         }
 
         private static HeaderCollection ParseHeaders(IEnumerable<string> headerLines)
@@ -46,7 +60,7 @@
                     break;
                 }
 
-                var headerParts = headerLine.Split(':',2);
+                var headerParts = headerLine.Split(':', 2);
 
                 if (headerParts.Length != 2)
                 {

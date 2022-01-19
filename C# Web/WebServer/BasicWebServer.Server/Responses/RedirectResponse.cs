@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BasicWebServer.Server.Responses
 {
-    internal class RedirectResponse : Response
+    public class RedirectResponse : Response
     {
         //location - the URL of the page, which the server should redirect to
         public RedirectResponse(string location) : base(StatusCode.Found)

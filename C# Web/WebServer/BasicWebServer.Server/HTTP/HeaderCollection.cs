@@ -8,12 +8,16 @@ namespace BasicWebServer.Server.HTTP
 
         public HeaderCollection() => this.headers = new Dictionary<string, Header>();
 
+        public string this[string name] => this.headers[name].Value;
+
         public int Count => this.headers.Count;
 
-        public void Add(string name, string value )
+        public bool Contains(string name) => this.headers.ContainsKey(name);
+
+        public void Add(string name, string value)
         {
-            var header = new Header(name, value);
-            this.headers.Add(name, header);
+            //this.headers.Add(name, new Header(name, value));
+            this.headers[name] = new Header(name, value);
         }
 
         public IEnumerator<Header> GetEnumerator()
@@ -22,6 +26,6 @@ namespace BasicWebServer.Server.HTTP
         }
 
         IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
-        
+
     }
 }

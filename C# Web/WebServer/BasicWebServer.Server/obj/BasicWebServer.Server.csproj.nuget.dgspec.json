@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marin016\\source\\repos\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {}
+    "E:\\C#\\C# Web\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marin016\\source\\repos\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+    "E:\\C#\\C# Web\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marin016\\source\\repos\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectUniqueName": "E:\\C#\\C# Web\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "projectName": "BasicWebServer.Server",
-        "projectPath": "C:\\Users\\marin016\\source\\repos\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
-        "packagesPath": "C:\\Users\\marin016\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marin016\\source\\repos\\WebServer\\BasicWebServer.Server\\obj\\",
+        "projectPath": "E:\\C#\\C# Web\\WebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "packagesPath": "C:\\Users\\сем. Маринови\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\C# Web\\WebServer\\BasicWebServer.Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marin016\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\сем. Маринови\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

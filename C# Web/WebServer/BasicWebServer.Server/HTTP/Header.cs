@@ -21,6 +21,8 @@ namespace BasicWebServer.Server.HTTP
 
         public string Name { get; init; }  
         
-        public string Value { get; set; }   
+        public string Value { get; set; }
+
+        public override string ToString() => $"{this.Name}: {this.Value}";
     }
 }

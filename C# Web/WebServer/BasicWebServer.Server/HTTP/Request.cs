@@ -1,4 +1,6 @@
-﻿namespace BasicWebServer.Server.HTTP
+﻿using System.Web;
+
+namespace BasicWebServer.Server.HTTP
 {
     public class Request
     {
@@ -46,9 +48,24 @@
 
             if (headers.Contains(Header.ContentType) && headers[Header.ContentType] == ContentType.FormUrlEncoded)
             {
+                var parserResult = ParseFormData(body);
 
+                foreach (var (name, value) in parserResult)
+                {
+                    formCollection.Add(name, value);
+                }
             }
+
+            return formCollection;
         }
+
+        private static Dictionary<string, string> ParseFormData(string bodyLines)
+            => HttpUtility.UrlDecode(bodyLines)
+            .Split('&')
+            .Select(part => part.Split('='))
+            .Where(part => part.Length == 2)
+            .ToDictionary(part => part[0], part => part[1],
+                StringComparer.InvariantCultureIgnoreCase);
 
         private static HeaderCollection ParseHeaders(IEnumerable<string> headerLines)
         {

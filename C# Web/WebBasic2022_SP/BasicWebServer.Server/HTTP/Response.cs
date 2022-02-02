@@ -5,6 +5,8 @@ namespace BasicWebServer.Server.HTTP
 {
     public class Response
     {
+        //the response consists of a start line, headers and content (body)
+        //The status line consists of an HTTP version and a status code
         public Response(StatusCode statusCode)
         {
             this.StatusCode = statusCode;
@@ -15,13 +17,14 @@ namespace BasicWebServer.Server.HTTP
 
         public StatusCode StatusCode { get; init; }
 
+        //create a header collection class for the response headers
         public HeaderCollection Headers { get; } = new HeaderCollection();
 
         public CookieCollection Cookies { get; } = new CookieCollection();
 
         public string Body { get; set; }
 
-        public Action<Request, Response> PreRenderAction { get; protected set; }
+        public byte[] FileContent { get; set; }
 
         public override string ToString()
         {

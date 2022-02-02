@@ -7,9 +7,10 @@ namespace BasicWebServer.Server.HTTP
 {
     public class Request
     {
+        //The HTTP request consists of an HTTP request line (with an HTTP method, a URL and HTTP version), headers and a body. 
         private static Dictionary<string, Session> Sessions = new();
 
-        public Method Method { get; private set; }
+        public Method Method { get; private set; } //Put, Get, Post, Delete
 
         public string Url { get; private set; }
 
@@ -23,28 +24,32 @@ namespace BasicWebServer.Server.HTTP
 
         public IReadOnlyDictionary<string, string> Form { get; private set; }
 
-        public static Request Parse(string request)
+        public static Request Parse(string request) //accepts a request as a string and parses it to a Request
         {
+            //To parse the request string to an HTTP request we need to first separate each line and get the first one, which contains
+            //our method and URL, split by a space
             var lines = request.Split("\r\n");
 
-            var startLine = lines.First().Split(" ");
+            var startLine = lines.First().Split(" "); //The start line is an array with the method and the URL as strings
 
-            var method = ParseMethod(startLine[0]);
+            var method = ParseMethod(startLine[0]); //we need to parse the given method string to an HTTP method
             var url = startLine[1];
 
-            var headers = ParseHeaders(lines.Skip(1));
+            var headers = ParseHeaders(lines.Skip(1)); //Take the headers, starting from the second request line. They also need parsing
 
             var cookies = ParseCookies(headers);
 
             var session = GetSession(cookies);
 
+            //Then, we need to get the lines of the body part of the request. Skip the start line and the header lines,
+            //get the body lines and join them to form the body part:
             var bodyLines = lines.Skip(headers.Count + 2).ToArray();
 
             var body = string.Join("\r\n", bodyLines);
 
             var form = ParseForm(headers, body);
 
-            return new Request
+            return new Request //Finally, return the parsed HTTP request with all its components to finish the Parse(string request) method
             {
                 Method = method,
                 Url = url,

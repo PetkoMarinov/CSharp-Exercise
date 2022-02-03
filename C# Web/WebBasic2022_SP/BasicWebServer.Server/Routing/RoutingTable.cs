@@ -10,6 +10,13 @@ namespace BasicWebServer.Server.Routing
     {
         private readonly Dictionary<Method, Dictionary<string, Func<Request, Response>>> routes;
 
+            //this.routes = new Dictionary<Method, Dictionary<string, Func<Request, Response>>>()
+            //{
+            //    { Method.Get, new Dictionary<string, Func<Request, Response>>()},
+            //    { Method.Post, new Dictionary<string, Func<Request, Response>>()},
+            //    { Method.Put, new Dictionary<string, Func<Request, Response>>()},
+            //    { Method.Delete, new Dictionary<string, Func<Request, Response>>()}
+            //};
         public RoutingTable() => this.routes = new()
         {
             [Method.Get] = new(StringComparer.InvariantCultureIgnoreCase),

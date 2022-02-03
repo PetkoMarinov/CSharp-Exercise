@@ -21,7 +21,7 @@ namespace BasicWebServer.Server.HTTP
         public void Add(string name, string value)
             => this.headers[name] = new Header(name, value);
 
-        public IEnumerator<Header> GetEnumerator()
+        public IEnumerator<Header> GetEnumerator()  //be able to iterate through the headers collection
             => this.headers.Values.GetEnumerator();
 
         IEnumerator IEnumerable.GetEnumerator()

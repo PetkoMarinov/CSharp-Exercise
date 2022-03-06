@@ -1,0 +1,36 @@
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb

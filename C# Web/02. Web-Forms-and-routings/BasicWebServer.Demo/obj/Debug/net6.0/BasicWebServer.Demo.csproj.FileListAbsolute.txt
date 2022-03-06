@@ -1,0 +1,54 @@
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.exe
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.deps.json
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.runtimeconfig.json
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\ref\BasicWebServer.Demo.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.pdb
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Server.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Server.pdb
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.AssemblyReference.cache
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.AssemblyInfoInputs.cache
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.AssemblyInfo.cs
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.CoreCompileInputs.cache
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.CopyComplete
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\ref\BasicWebServer.Demo.dll
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.pdb
+E:\C#\C# Web\1.HTTP-Protocol-Exercises\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.genruntimeconfig.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.exe
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.deps.json
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.runtimeconfig.json
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\ref\BasicWebServer.Demo.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.pdb
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.AssemblyReference.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.AssemblyInfoInputs.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.AssemblyInfo.cs
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.CoreCompileInputs.cache
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.CopyComplete
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\ref\BasicWebServer.Demo.dll
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.pdb
+C:\Users\marin016\Desktop\Petko\C#\Test\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.genruntimeconfig.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.exe
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.deps.json
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.runtimeconfig.json
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\ref\BasicWebServer.Demo.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.pdb
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Server.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Server.pdb
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.AssemblyReference.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.AssemblyInfoInputs.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.AssemblyInfo.cs
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.CoreCompileInputs.cache
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.csproj.CopyComplete
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\ref\BasicWebServer.Demo.dll
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.pdb
+E:\C#\C# Web\02. Web-Forms-and-routings\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.csproj.AssemblyReference.cache
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.AssemblyInfoInputs.cache
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.AssemblyInfo.cs
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.csproj.CoreCompileInputs.cache
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\bin\Debug\net6.0\Chronometer.exe
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\bin\Debug\net6.0\Chronometer.deps.json
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\bin\Debug\net6.0\Chronometer.runtimeconfig.json
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\bin\Debug\net6.0\Chronometer.dll
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\bin\Debug\net6.0\ref\Chronometer.dll
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\bin\Debug\net6.0\Chronometer.pdb
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.dll
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\ref\Chronometer.dll
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.pdb
+E:\C#\C# Web\AsynchronusProcessingExercise\Chronometer\obj\Debug\net6.0\Chronometer.genruntimeconfig.cache

@@ -11,3 +11,5 @@ function greatestCommonDevisor(numberOne, numberTwo) {
 
     console.log(devisor);
 }
+
+

@@ -1,0 +1,15 @@
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\bin\Debug\net6.0\3. Generating 01 vectors.exe
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\bin\Debug\net6.0\3. Generating 01 vectors.deps.json
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\bin\Debug\net6.0\3. Generating 01 vectors.runtimeconfig.json
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\bin\Debug\net6.0\3. Generating 01 vectors.dll
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\bin\Debug\net6.0\3. Generating 01 vectors.pdb
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.csproj.AssemblyReference.cache
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.AssemblyInfoInputs.cache
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.AssemblyInfo.cs
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.csproj.CoreCompileInputs.cache
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.dll
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\refint\3. Generating 01 vectors.dll
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.pdb
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\3. Generating 01 vectors.genruntimeconfig.cache
+E:\C#\C# Web\Algorithms\3. Generating 01 vectors\3. Generating 01 vectors\obj\Debug\net6.0\ref\3. Generating 01 vectors.dll
